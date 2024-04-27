@@ -1,0 +1,24 @@
+{
+  "peliculas": [
+    { "id": 1, "name": "La Casa de Papel", "photo": "https://example.com/la-casa-de-papel.jpg", "duracion": "125 minutos", "genero": "Acción/Drama" },
+    { "id": 2, "name": "Black Widow", "photo": "https://example.com/black-widow.jpg", "duracion": "134 minutos", "genero": "Acción/Aventura" },
+    { "id": 3, "name": "Jurassic Park", "photo": "https://example.com/jurassic-park.jpg", "duracion": "127 minutos", "genero": "Ciencia ficción/Aventura" },
+    { "id": 4, "name": "Inception", "photo": "https://example.com/inception.jpg", "duracion": "148 minutos", "genero": "Acción/Ciencia ficción" },
+    { "id": 5, "name": "The Godfather", "photo": "https://example.com/the-godfather.jpg", "duracion": "175 minutos", "genero": "Crimen/Drama" },
+    { "id": 6, "name": "Interstellar", "photo": "https://example.com/interstellar.jpg", "duracion": "169 minutos", "genero": "Aventura/Drama" },
+    { "id": 7, "name": "The Shawshank Redemption", "photo": "https://example.com/the-shawshank-redemption.jpg", "duracion": "142 minutos", "genero": "Drama" },
+    { "id": 8, "name": "The Dark Knight", "photo": "https://example.com/the-dark-knight.jpg", "duracion": "152 minutos", "genero": "Acción/Crimen" },
+    { "id": 9, "name": "Forrest Gump", "photo": "https://example.com/forrest-gump.jpg", "duracion": "142 minutos", "genero": "Drama/Romance" },
+    { "id": 10, "name": "Avatar", "photo": "https://example.com/avatar.jpg", "duracion": "162 minutos", "genero": "Ciencia ficción/Aventura" },
+    { "id": 11, "name": "Titanic", "photo": "https://example.com/titanic.jpg", "duracion": "195 minutos", "genero": "Drama/Romance" },
+    { "id": 12, "name": "Inglourious Basterds", "photo": "https://example.com/inglourious-basterds.jpg", "duracion": "153 minutos", "genero": "Drama/Bélico" },
+    { "id": 13, "name": "The Matrix", "photo": "https://example.com/the-matrix.jpg", "duracion": "136 minutos", "genero": "Acción/Ciencia ficción" },
+    { "id": 14, "name": "Pulp Fiction", "photo": "https://example.com/pulp-fiction.jpg", "duracion": "154 minutos", "genero": "Crimen/Drama" },
+    { "id": 15, "name": "The Lord of the Rings: The Fellowship of the Ring", "photo": "https://example.com/the-lord-of-the-rings.jpg", "duracion": "178 minutos", "genero": "Fantasía/Aventura" },
+    { "id": 16, "name": "The Silence of the Lambs", "photo": "https://example.com/the-silence-of-the-lambs.jpg", "duracion": "118 minutos", "genero": "Crimen/Drama" },
+    { "id": 17, "name": "The Green Mile", "photo": "https://example.com/the-green-mile.jpg", "duracion": "189 minutos", "genero": "Crimen/Drama" },
+    { "id": 18, "name": "The Godfather: Part II", "photo": "https://example.com/the-godfather-part-ii.jpg", "duracion": "202 minutos", "genero": "Crimen/Drama" },
+    { "id": 19, "name": "The Lord of the Rings: The Return of the King", "photo": "https://example.com/the-lord-of-the-rings-return-of-the-king.jpg", "duracion": "201 minutos", "genero": "Fantasía/Aventura" },
+    { "id": 20, "name": "The Dark Knight Rises", "photo": "https://example.com/the-dark-knight-rises.jpg", "duracion": "164 minutos", "genero": "Acción/Drama" }
+  ]
+}
